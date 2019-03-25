@@ -1,0 +1,5 @@
+secrets.py
+venv
+.idea
+db.*
+__pycache__
